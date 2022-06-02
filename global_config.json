@@ -351,8 +351,12 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/tossp/redpill-load.git",
-        "branch": "42218-20211021"
+        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "branch": "jun"
+      },
+        "build_env": {
+        "jun_mod": 1,
+        "debug": 0
       }
     },
     {
@@ -379,11 +383,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/pocopico/redpill-load.git",
-        "branch": "jun"
-      }
-      "build_env": {
-        "jun_mod": 1,
-        "debug": 0
+        "branch": "develop"
       }
     },
     {
